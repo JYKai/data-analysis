@@ -7,3 +7,4 @@
 | 2    |  |
 | 3    | Data Cleaning |
 | 4    | Data Summarization |
+| 5    | Data Visualization |
